@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/jwilliams-slb1/Parts%20Unlimited/_apis/build/status/jwilliams-slb1.pipelines-python-django?branchName=master)](https://dev.azure.com/jwilliams-slb1/Parts%20Unlimited/_build/latest?definitionId=6&branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
